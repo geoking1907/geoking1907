@@ -9,7 +9,7 @@
 
 [<img align="left" alt="geoking" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="geoking" width="30px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="geoking" width="30px" src=""https://img.icons8.com/color/48/000000/discord--v2.png" />][discord]
+[<img align="left" alt="geoking" width="30px" src="https://img.icons8.com/color/48/000000/discord--v2.png" />][discord]
 
 <br />
 
