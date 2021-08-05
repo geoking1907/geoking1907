@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning docker, blockchain and python.
 - 🎻 I love play violin
 
+---
+
 ### My socials 📱
 
 [<img align="left" alt="geoking" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
