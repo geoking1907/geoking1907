@@ -1,4 +1,4 @@
-### Hi, my name is Georgii - aka [geoking][youtube] 👋
+# Hi, my name is Georgii - aka [geoking][youtube] 👋
 
 ## About me ⭐
 - 👀 I’m interested in programming
