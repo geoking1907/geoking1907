@@ -7,6 +7,14 @@ Thanks for visiting my profile.
 * 📚 I’m currently learning everything)))
 * 🎻 I love play violin
 
+### Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=geoking1907&show_icons=true&theme=dark&hide=contribs,prs)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geoking1907&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+### Visitors 
+![Visitor Count](https://profile-counter.glitch.me/{geoking1907}/count.svg)
+<br />
+---
 ### My socials
 
 [<img align="left" alt="geoking" width="30px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
@@ -14,12 +22,6 @@ Thanks for visiting my profile.
 [<img align="left" alt="geoking" width="30px" src="https://img.icons8.com/color/48/000000/discord--v2.png" />][discord]
 [<img align="left" alt="geoking" width="30px" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>][github]
 [<img align="left" alt="geoking" width="30px" src="https://img.icons8.com/office/80/000000/reddit.png"/>][reddit]
-<br />
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=geoking1907&show_icons=true&theme=dark&hide=contribs,prs)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geoking1907&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<br />
 
 [youtube]: https://www.youtube.com/channel/UCE7qKULV96ZG_ZvI5JRYvUg
 [instagram]: https://www.instagram.com/geokingstreams/
