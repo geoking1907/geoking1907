@@ -16,7 +16,8 @@ Thanks for visiting my profile.
 [<img align="left" alt="geoking" width="30px" src="https://img.icons8.com/office/80/000000/reddit.png"/>][reddit]
 <br />
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=geoking1907&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geoking1907&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=geoking1907&show_icons=true&theme=dark&hide=contribs,prs)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geoking1907&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
