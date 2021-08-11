@@ -7,6 +7,8 @@ Thanks for visiting my profile.
 - 📚 I’m currently learning everything)))
 - 🎻 I love play violin
 
+> Do what you love, love what you do.
+
 ### Skills: 
 * 🐍 Python 
 * 💻 Django
