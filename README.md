@@ -1,12 +1,9 @@
-# Hi there, my name is Georgii
+# Hi there, my name is Georgii!
 
 ## About me
-I am a beginner in programming. Here I will upload my projects.
-Thanks for visiting my profile.
-
-- 📚 I’m currently learning everything)))
-- 🎻 I love play violin
-
+I am a beginner in programming. Here I will upload my projects. Thanks for visiting my profile.
+* 📚 I’m currently learning everything)))
+* 🎻 I love to play violin
 > Do what you love, love what you do.
 
 ### Skills: 
