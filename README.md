@@ -23,7 +23,7 @@ I am a beginner in programming. Here I will upload my projects. Thanks for visit
 [![geoking](https://img.icons8.com/color/48/000000/discord--v2.png)][discord]
 [![geoking](https://img.icons8.com/material-outlined/48/000000/github.png)][github]
 [![geoking](https://img.icons8.com/office/48/000000/reddit.png)][reddit]
-[![geoking](https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png)][cpen]
+[![geoking](https://img.icons8.com/color/50/000000/codepen.png)][cpen]
 
 
 ### Stats
