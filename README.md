@@ -8,7 +8,7 @@ I am a beginner in programming. Here I will upload my projects. Thanks for visit
 
 ### Skills: 
 * 🐍 Python 
-* 💻 Django
+* 💻 Django and Flask
 * 📄 HTML/CSS
 * 🚢 Docker
 * 🌳 Git
