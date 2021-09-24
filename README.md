@@ -2,12 +2,12 @@
 
 ## About me
 I am a beginner in programming. Here I will upload my projects. Thanks for visiting my profile.
-* 📚 I’m currently learning everything)))
+* 📚 I’m currently learning golang. Going to learn js)))
 * 🎻 I love to play violin
 > Do what you love, love what you do.
 
 ### Skills: 
-* 🐍 Python 
+* 🐍 Python and Golang
 * 💻 Django and Flask
 * 📄 HTML/CSS
 * 🚢 Docker
