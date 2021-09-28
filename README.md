@@ -10,7 +10,7 @@ I am a beginner in programming. Here I will upload my projects. Thanks for visit
 * 🐍 Python and Golang
 * 💻 Django and Flask
 * 📄 HTML/CSS
-* 🚢 Docker
+* 🚢 Docker and VMWare
 * 🌳 Git
 * ⛓️ Blockchain
 
