@@ -37,7 +37,7 @@ I am a beginner in programming. Here I will upload my projects. Thanks for visit
 
 
 [youtube]: https://www.youtube.com/channel/UCE7qKULV96ZG_ZvI5JRYvUg
-[instagram]: https://www.instagram.com/geokingstreams/
+[instagram]: https://www.instagram.com/geokingcode/
 [discord]: https://discord.gg/fuQDbudG9W
 [github]: https://github.com/geoking1907/
 [reddit]: https://www.reddit.com/user/geoking_
