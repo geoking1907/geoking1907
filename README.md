@@ -17,9 +17,7 @@ I am a beginner in programming. Here I will upload my projects. Thanks for visit
 ## My socials
 
 
-[![geoking](https://img.icons8.com/color/48/000000/youtube-play.png)][youtube]
 [![geoking](https://img.icons8.com/fluency/48/000000/instagram-new.png)][instagram]
-[![geoking](https://img.icons8.com/color/48/000000/discord--v2.png)][discord]
 [![geoking](https://img.icons8.com/material-outlined/48/000000/github.png)][github]
 [![geoking](https://img.icons8.com/office/48/000000/reddit.png)][reddit]
 [![geoking](https://img.icons8.com/color/50/000000/codepen.png)][cpen]
@@ -34,10 +32,7 @@ I am a beginner in programming. Here I will upload my projects. Thanks for visit
 ![Visitor Count](https://profile-counter.glitch.me/{geoking1907}/count.svg)
 <br />
 
-
-[youtube]: https://www.youtube.com/channel/UCE7qKULV96ZG_ZvI5JRYvUg
 [instagram]: https://www.instagram.com/geokingcode/
-[discord]: https://discord.gg/fuQDbudG9W
 [github]: https://github.com/geoking1907/
 [reddit]: https://www.reddit.com/user/geoking_
 [cpen]: https://codepen.io/geoking_
