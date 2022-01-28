@@ -1,4 +1,4 @@
-# Hi there, my name is Georgii!
+# Hi there, my name is George!
 
 ## About me
 I am a beginner in programming. Here I will upload my projects. Thanks for visiting my profile.
