@@ -6,12 +6,10 @@ I am a beginner in programming. Here I will upload my projects. Thanks for visit
 * 🎻 I love to play violin
 
 ### Skills: 
-* 🐍 Python and Golang
-* 💻 Django and Flask
+* 🐍 Python
+* 💻 Flask
 * 📄 HTML/CSS/JS
-* 🚢 Docker and VMWare
 * 🌳 Git
-* ⛓️ Blockchain
 
 
 ## My socials
