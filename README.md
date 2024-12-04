@@ -2,15 +2,15 @@
 
 ## About me
 I am a beginner in programming. Here I will upload my projects. Thanks for visiting my profile.
-* 📚 I’m currently learning js)))
+* 📚 I’m currently learning everything)))
 * 🎻 I love to play violin
 
 ### Skills: 
-* 🐍 Python
-* 💻 Flask
-* 📄 HTML/CSS/JS
-* 🌳 Git
-
+* Python
+* Flask
+* HTML/CSS/JS
+* Git 
+* C++
 
 ## My socials
 
